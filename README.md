@@ -1,7 +1,7 @@
 ### Olá, eu sou José Alfredo Pedrozo!
 
-- Estudo Sistemas de Informação, Game Development e Design;
-- Pronouns: ele/dele;
+- Estudo Sistemas de Informação, Game Development e Design 🐱‍💻;
+- Pronouns: ele/dele 🐱‍👤;
 
 
 <a href="https://github.com/JAlfredo21/github-readme-stats">
