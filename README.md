@@ -15,7 +15,9 @@
   <img align="center" alt="José-HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="José-CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="José-Photoshop" src="https://aleen42.github.io/badges/src/photoshop.svg" />
- <img align="center" alt="José-Illustrator" src="https://aleen42.github.io/badges/src/illustrator.svg" />
+  <img align="center" alt="José-Illustrator" src="https://aleen42.github.io/badges/src/illustrator.svg" />
+  <img align="center" alt="José-Illustrator" src="https://aleen42.github.io/badges/src/illustrator.svg" />
+  <img align="right" alt="José-pixel" src="https://cdn.discordapp.com/attachments/781335367595982903/888220839718309888/animate.gif" />
 </div>
 
 ##
