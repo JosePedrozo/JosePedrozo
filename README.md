@@ -17,7 +17,7 @@
   <img align="center" alt="José-Photoshop" src="https://aleen42.github.io/badges/src/photoshop.svg" />
   <img align="center" alt="José-Illustrator" src="https://aleen42.github.io/badges/src/illustrator.svg" />
   <img align="center" alt="José-Illustrator" src="https://aleen42.github.io/badges/src/illustrator.svg" />
-  <img align="right" alt="José-pixel" src="https://cdn.discordapp.com/attachments/781335367595982903/888220839718309888/animate.gif" />
+  <img align="right" alt="José-pixel" height="180" width="180" src="https://cdn.discordapp.com/attachments/781335367595982903/888220839718309888/animate.gif" />
 </div>
 
 ##
