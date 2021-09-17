@@ -1,6 +1,6 @@
 ### Olá, eu sou José Alfredo Pedrozo!
 
-- 🐱‍💻 Estudo Sistemas de Informação, Game Development e Designer;
+- 🐱‍💻 Estudo Sistemas de Informação, Game Development e Design;
 - 🐱‍👤 Pronouns: ele/dele;
 
 
