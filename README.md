@@ -2,6 +2,7 @@
 
 - 🐱‍💻 Estudo Sistemas de Informação, Game Development e Design;
 - 🐱‍👤 Pronouns: ele/dele;
+- 🐱‍🚀 Estágiario como Desenvolvedor Front-end
 
 
 <a href="https://github.com/JAlfredo21/github-readme-stats">
