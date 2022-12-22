@@ -2,7 +2,7 @@
 
 - 🐱‍💻 Estudo Sistemas de Informação e Sistemas para Internet;
 - 🐱‍👤 Pronouns: ele/dele;
-- 🐱‍🚀 Estágiario como Desenvolvedor Front-end
+- 🐱‍🚀 Desenvolvedor Front-end Jr
 
 
 <a href="https://github.com/JosePedrozo/github-readme-stats">
