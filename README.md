@@ -5,10 +5,10 @@
 - 🐱‍🚀 Desenvolvedor Front-end Jr
 
 
-<a href="https://github.com/JosePedrozo/github-readme-stats">
+<!-- <a href="https://github.com/JosePedrozo/github-readme-stats">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JosePedrozo&show_icons=true&theme=radical&include_all_commits=true" />
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosePedrozo&layout=compact&theme=radical" />
-</a>
+</a> -->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="José-C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
