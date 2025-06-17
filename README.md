@@ -1,8 +1,8 @@
 ### Olá, eu sou José Alfredo Pedrozo!
 
-- 🐱‍💻 Estudo Sistemas de Informação e Sistemas para Internet;
+- 🐱‍💻 Estudos: Bacharel em Sistemas de Informação;
 - 🐱‍👤 Pronouns: ele/dele;
-- 🐱‍🚀 Desenvolvedor Front-end Jr
+- 🐱‍🚀 Apaixonado por Tecnologia e Gestão Ágil
 
 
 <!-- <a href="https://github.com/JosePedrozo/github-readme-stats">
