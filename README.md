@@ -1,6 +1,6 @@
 ### Olá, eu sou José Alfredo Pedrozo!
 
-- 🐱‍💻 Estudos: Bacharel em Sistemas de Informação;
+- 🐱‍💻 Estudos: Bacharel em Sistemas de Informação / MBA em Engenharia de Software;
 - 🐱‍👤 Pronouns: ele/dele;
 - 🐱‍🚀 Apaixonado por Tecnologia e Gestão Ágil
 
@@ -12,6 +12,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="José-C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img align="center" alt="José-React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img align="center" alt="José-HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="José-CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="José-Photoshop" src="https://aleen42.github.io/badges/src/photoshop.svg" />
