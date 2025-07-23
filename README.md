@@ -13,7 +13,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="José-React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
   <img align="center" alt="José-HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="José-CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="José-Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" />
   <img align="center" alt="José-TS" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" />
   <img align="center" alt="José-JS" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" />
   <img align="right" alt="José-pixel" height="180" width="180" src="https://cdn.discordapp.com/attachments/781335367595982903/888220839718309888/animate.gif" />
