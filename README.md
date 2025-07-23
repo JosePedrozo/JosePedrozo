@@ -1,7 +1,7 @@
 ### Olá, eu sou José Alfredo Pedrozo!
 
-- 🐱‍💻 Estudos: Bacharel em Sistemas de Informação / MBA em Engenharia de Software;
-- 🐱‍👤 Pronouns: ele/dele;
+- 🐱‍💻 Bacharel em Sistemas de Informação / MBA em Engenharia de Software;
+- 🐱‍👤 ele/dele;
 - 🐱‍🚀 Apaixonado por Tecnologia e Gestão Ágil
 
 
@@ -14,6 +14,8 @@
   <img align="center" alt="José-React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
   <img align="center" alt="José-HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="José-CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="José-TS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="José-JS" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" />
   <img align="right" alt="José-pixel" height="180" width="180" src="https://cdn.discordapp.com/attachments/781335367595982903/888220839718309888/animate.gif" />
 </div>
 
